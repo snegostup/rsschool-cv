@@ -36,3 +36,15 @@ function square(x) {
 let result = square(5);
 alert(result);
 ```
+
+## Experience
+
+## Education
+
+**Tyumen Industrial University,** 2013-2016 / the electrical engineer on repair and service of an electric equipment
+
+## Languages:
+
+* Russian - Native
+
+* English - A2 
