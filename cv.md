@@ -17,3 +17,22 @@
 I am a beginner front-end developer, my experience is not very much, but I am quite diligent and hardworking.
 
 I started teaching quite recently, fell in love with layout and then my journey began..
+
+## Skills
+
+* HTML
+* CSS(sass/scss)
+* JavaScript Basics
+* VS Code
+* Git
+
+## Code
+
+```Js
+function square(x) { 
+  return x * x; 
+};
+
+let result = square(5);
+alert(result);
+```
